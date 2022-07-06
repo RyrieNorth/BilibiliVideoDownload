@@ -1,3 +1,2 @@
 # BilibiliVideoDownload
-单纯用来下载Bilibili视频的小工具
 由于FFMPEG太大了，所以需要自行下载一个放进Tools文件夹中
